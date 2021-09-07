@@ -67,7 +67,6 @@ body {
   left: 0;
   height: 7vh;
   width: 7vh;
-  padding-left: 10px;
   background-color: #eee;
   border-radius: 50%;
 }
@@ -117,7 +116,7 @@ body {
 .ser-q
 {
   font-size: 6vh;
-  padding: 0 40px 0 0
+  padding-right: 70px;
 }
 
 .rate {
