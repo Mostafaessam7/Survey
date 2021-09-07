@@ -32,7 +32,7 @@ body {
   left: 0;
   width: 100%;
   height: 100%;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 /* Customize the label (the container) */
@@ -40,7 +40,6 @@ body {
   display: block;
   position: relative;
   padding-left: 9vh;
-  margin-bottom: 12px;
   cursor: pointer;
   font-size: 5vh;
   -webkit-user-select: none;
@@ -166,7 +165,7 @@ body {
   padding: 3px 35px;
   color: black;
   font-size: 30px;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 
 .Send
