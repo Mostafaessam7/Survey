@@ -39,7 +39,7 @@ body {
 .container1 {
   display: block;
   position: relative;
-  padding-left: 70px;
+  padding-left: 35px;
   margin-bottom: 12px;
   cursor: pointer;
   font-size: 5vh;
@@ -49,6 +49,7 @@ body {
   user-select: none;
   color: black;
   font-weight: 600;
+  margin-left: 40px;
 }
 
 /* Hide the browser's default radio button */
@@ -58,6 +59,13 @@ body {
   cursor: pointer;
   height: 0;
   width: 0;
+  
+}
+.ser-q
+{
+  margin-left: 20px;
+  
+
 }
 
 /* Create a custom radio button */
@@ -65,11 +73,11 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  height: 7vh;
-  width: 7vh;
+  height: 6vh;
+  width: 6vh;
   background-color: #eee;
   border-radius: 50%;
-  margin-right: 60px;
+  
 }
 
 /* On mouse-over, add a grey background color */
@@ -96,8 +104,8 @@ body {
 
 /* Style the indicator (dot/circle) */
 .container1 .checkmark:after {
-  top: 2.5vh;
-  left: 2.5vh;
+  top: 2vh;
+  left: 2vh;
   width: 2vh;
   height: 2vh;
   border-radius: 50%;
@@ -113,10 +121,6 @@ body {
   color: rgb(236, 233, 233);
   font-size: 4vh;
   font-weight: 500;
-}
-.ser-q
-{
-  padding-right: 70px;
 }
 
 .rate {
@@ -160,13 +164,9 @@ body {
   padding: 3px 35px;
   color: black;
   font-size: 30px;
-}
-.cont {
-  z-index: 1212;
-}
-.vv {
   margin-top: 50px;
 }
+
 .Send
 {
   font-size: 5vh;
