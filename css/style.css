@@ -10,11 +10,6 @@ body {
   overflow: hidden;
   color: #c59b08;
 }
-h1 {
-  color: #cecece;
-  font-weight: 900;
-  font-size: 150px;
-}
 
 .containerr {
   position: relative;
@@ -40,27 +35,6 @@ h1 {
   background-color: rgba(0, 0, 0, 0.7);
 }
 
-/* .content{
-	position: relative;
-    max-width: 700px;
-    padding: 2rem;
-    z-index: 1;
-}
-
-.content h2{
-	color: #fff44f;
-	font-family: "Dancing Script", cursive;
-	font-size: 4.3rem;
-	
-}
-
-.content p{
-	color: white;
-	font-size: 1.2rem;
-	font-weight: 100;
-}
-  */
-
 /* Customize the label (the container) */
 .container1 {
   display: block;
@@ -68,14 +42,14 @@ h1 {
   padding-left: 35px;
   margin-bottom: 12px;
   cursor: pointer;
-  font-size: 22px;
+  font-size: 5vh;
   -webkit-user-select: none;
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
   color: black;
   font-size: x-large;
-  font-weight: 900;
+  font-weight: 600;
 }
 
 /* Hide the browser's default radio button */
@@ -92,8 +66,8 @@ h1 {
   position: absolute;
   top: 0;
   left: 0;
-  height: 25px;
-  width: 25px;
+  height: 4vh;
+  width: 4vh;
   background-color: #eee;
   border-radius: 50%;
 }
@@ -137,13 +111,13 @@ h1 {
 
 h2 {
   color: rgb(236, 233, 233);
-  font-size: 6vh;
-  font-weight: 600;
+  font-size: 4vh;
+  font-weight: 500;
 }
 
 .rate {
   float: left;
-  height: 46px;
+  height: 5vh;
   padding: 0 10px;
 }
 .rate:not(:checked) > input {
@@ -191,6 +165,6 @@ h2 {
 }
 .Send
 {
-  font-size: 40px;
+  font-size: 5vh;
   font-weight: 500;
 }
