@@ -66,8 +66,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  height: 40px;
-  width: 40px;
+  height: 6vh;
+  width: 6vh;
   padding-left: 20px;
   background-color: #eee;
   border-radius: 50%;
@@ -97,10 +97,10 @@ body {
 
 /* Style the indicator (dot/circle) */
 .container1 .checkmark:after {
-  top: 13px;
-  left: 13px;
-  width: 15px;
-  height: 15px;
+  top: 2vh;
+  left: 2vh;
+  width: 2vh;
+  height: 2vh;
   border-radius: 50%;
   background: white;
 }
