@@ -66,8 +66,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  height: 4vh;
-  width: 4vh;
+  height: 25px;
+  width: 25px;
   background-color: #eee;
   border-radius: 50%;
 }
