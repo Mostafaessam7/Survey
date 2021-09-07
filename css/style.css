@@ -48,7 +48,6 @@ body {
   -ms-user-select: none;
   user-select: none;
   color: black;
-  font-size: 5vh;
   font-weight: 600;
 }
 
@@ -66,9 +65,9 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  height: 8vh;
-  width: 8vh;
-  padding-left: 25px;
+  height: 7vh;
+  width: 7vh;
+  padding-left: 10px;
   background-color: #eee;
   border-radius: 50%;
 }
@@ -97,8 +96,8 @@ body {
 
 /* Style the indicator (dot/circle) */
 .container1 .checkmark:after {
-  top: 3vh;
-  left: 3vh;
+  top: 2.5vh;
+  left: 2.5vh;
   width: 2vh;
   height: 2vh;
   border-radius: 50%;
@@ -110,10 +109,15 @@ body {
 }
 
 
-h2 {
+.ser-titel {
   color: rgb(236, 233, 233);
   font-size: 4vh;
   font-weight: 500;
+}
+.ser-q
+{
+  font-size: 6vh;
+  padding: 0 40px 0 0
 }
 
 .rate {
