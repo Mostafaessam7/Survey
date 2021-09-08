@@ -64,7 +64,7 @@ body {
 {
   margin-right: 20px;
   margin-left: 60px;
-  margin-top: 10px;
+  margin-top: 12px;
   font-size: 5vh;
 }
 
@@ -177,6 +177,6 @@ body {
 
 .w-51
 {
-  width: 18vh ;
-  height: 18vh ;
+  width: 15vh ;
+  height: 15vh ;
 }
