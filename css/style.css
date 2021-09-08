@@ -64,6 +64,7 @@ body {
 {
   margin-right: 20px;
   margin-left: 60px;
+  margin-top: 10px;
   font-size: 5vh;
 }
 
@@ -74,8 +75,8 @@ body {
   position: absolute;
   top: 0;
   left: 0;
-  height: 5vh;
-  width: 5vh;
+  height: 4vh;
+  width: 4vh;
   background-color: #eee;
   border-radius: 50%;
   
@@ -105,10 +106,10 @@ body {
 
 /* Style the indicator (dot/circle) */
 .container1 .checkmark:after {
-  top: 1.5vh;
-  left: 1.5vh;
-  width: 2vh;
-  height: 2vh;
+  top: 1.3vh;
+  left: 1.3vh;
+  width: 1.5vh;
+  height: 1.5vh;
   border-radius: 50%;
   background: white;
 }
@@ -176,6 +177,6 @@ body {
 
 .w-51
 {
-  width: 23vh ;
-  height: 23vh ;
+  width: 18vh ;
+  height: 18vh ;
 }
