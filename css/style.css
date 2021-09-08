@@ -64,8 +64,8 @@ body {
 {
   margin-right: 20px;
   margin-left: 60px;
-  margin-top: 12px;
-  font-size: 5vh;
+  margin-bottom:11px ;
+  font-size: 4.5vh;
 }
 
 
@@ -73,8 +73,8 @@ body {
 /* Create a custom radio button */
 .checkmark {
   position: absolute;
-  top: 0;
-  left: 0;
+  bottom: 0;
+  right: 0;
   height: 4vh;
   width: 4vh;
   background-color: #eee;
